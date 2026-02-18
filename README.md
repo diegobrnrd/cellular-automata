@@ -15,10 +15,10 @@ Apesar da simplicidade, o sistema produz comportamentos emergentes complexos com
 ## 🎯 Características
 
 - ✅ Simulação completa das regras do Jogo da Vida
+- 🔧 Configuração flexível de padrões iniciais
 - 🎨 Visualização em tempo real com matplotlib
 - 📊 Análise de atividade celular ao longo das gerações
 - 🎬 Exportação de animações em GIF
-- 🔧 Configuração flexível de padrões iniciais
 - 📈 Gráficos de transições de estado
 
 ## 🚀 Como rodar
@@ -98,3 +98,13 @@ Padrão clássico que se move diagonalmente pela grade. O LWSS é uma "nave espa
 Para uma análise detalhada dos fundamentos teóricos e resultados experimentais, consulte o artigo completo incluído neste repositório.
 
 📖 [Dinâmica Emergente e Complexidade em Autômatos Celulares](Dinâmica%20Emergente%20e%20Complexidade%20em%20Autômatos%20Celulares%20Uma%20Implementação%20Computacional%20e%20Análise%20de%20Estabilidade%20do%20Jogo%20da%20Vida%20de%20Conway.pdf)
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+## 📜 Licença
+
+Este projeto é de código aberto e está disponível para uso educacional e pesquisa.
