@@ -21,6 +21,12 @@ Apesar da simplicidade, o sistema produz comportamentos emergentes complexos com
 - 🎬 Exportação de animações em GIF
 - 📈 Gráficos de transições de estado
 
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
 ## 🚀 Como rodar
 
 ```bash
@@ -102,12 +108,6 @@ Para uma análise detalhada dos fundamentos teóricos e resultados experimentais
 ## 👤 Autor
 
 [**Diego Bernardo**](https://github.com/diegobrnrd)
-
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📜 Licença
 
