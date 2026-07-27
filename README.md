@@ -105,7 +105,7 @@ Para uma análise detalhada dos fundamentos teóricos e resultados experimentais
 
 📖 [Dinâmica Emergente e Complexidade em Autômatos Celulares](Dinâmica%20Emergente%20e%20Complexidade%20em%20Autômatos%20Celulares%20Uma%20Implementação%20Computacional%20e%20Análise%20de%20Estabilidade%20do%20Jogo%20da%20Vida%20de%20Conway.pdf)
 
-## 👤 Autor
+## Autor
 
 [**Diego Bernardo**](https://github.com/diegobrnrd)
 
